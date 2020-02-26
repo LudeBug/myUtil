@@ -5,4 +5,4 @@
  - Disable F1 key
 
 ## bat
-- add "open" command
+- empty......
