@@ -6,5 +6,3 @@
 
 ## cmd
 - add "open" command
-
-"-- EOF --"
