@@ -4,5 +4,5 @@
 ## Excel
  - Disable F1 key
 
-## cmd
+## bat
 - add "open" command
