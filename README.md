@@ -10,6 +10,6 @@
 ## memo
 - open
 
-```bash:open
+```bash
 alias open="cmd.exe /c start"
 ```
