@@ -8,7 +8,8 @@
 - empty......
 
 ## memo
+- open
 
-'''bash:open
+'''
 alias open="cmd.exe /c start"
 '''
