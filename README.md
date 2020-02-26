@@ -7,6 +7,9 @@
 ## bat
 - empty......
 
+## vimrc
+- (´;ω;`)ゞ
+
 ## memo
 - open
 
